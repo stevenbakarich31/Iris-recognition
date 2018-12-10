@@ -2,7 +2,7 @@ function varargout = Cholesterol(varargin)
 % CHOLESTEROL M-file for Cholesterol.fig
 %      CHOLESTEROL, by itself, creates a new CHOLESTEROL or raises the existing
 %      singleton*.
-%sdfsdfsdfsdfssdfsdf
+%
 %      H = CHOLESTEROL returns the handle to a new CHOLESTEROL or the handle to
 %      the existing singleton*.
 %
